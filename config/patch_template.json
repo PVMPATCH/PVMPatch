@@ -1,0 +1,522 @@
+[
+    {
+        "file" : "Modules/zipimport.c",
+        "line" : 409,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "archive_str",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.0",
+        "offset" : 1
+
+    },
+
+
+
+    {
+        "file" : "Modules/zipimport.c",
+        "line" : 432,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "archive_str",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.1",
+        "offset" : 1
+
+    },
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 250,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.1",
+        "offset" : 0
+
+    },
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 273,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.1",
+        "offset" : 0
+
+    },
+
+
+
+    
+
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 250,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+
+    },
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 273,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+        
+
+    },
+
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 337,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+
+    },
+
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 389,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+
+    },
+
+    {
+        "file" : "Modules/_localemodule.c",
+        "line" : 571,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&dirname_bytes",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+
+    },
+
+    {
+        "file" : "Modules/socketmodule.c",
+        "line" : 4004,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "hobj",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 2
+
+    },
+
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4150,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+    },
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4185,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+    },
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4275,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+    },
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4668,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+    },
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4705,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+    },
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4732,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 0
+    },
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4753,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 1
+    },
+    {
+        "file" : "Modules/_ctypes/_ctypes.c",
+        "line" : 4757,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "stgdict",
+        "strategy" : "offset",
+        "project_name" : "cpython-3.2",
+        "offset" : 2
+    },
+
+
+
+
+
+
+
+
+    
+
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 250,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.3",
+        "offset" : 0
+
+    },
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 273,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.3",
+        "offset" : 0
+
+    },
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 337,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.3",
+        "offset" : 0
+
+    },
+    {
+        "file" : "Modules/_collectionsmodule.c",
+        "line" : 389,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "rv",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.3",
+        "offset" : 0
+
+    },
+
+
+
+
+
+    {
+        "file" : "Python/ast.c",
+        "line" : 5942,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&state->last_str",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.8",
+        "offset" : 0
+    },
+    {
+        "file" : "Python/initconfig.c",
+        "line" : 2394,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "&precmdline->argv.items",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.8",
+        "offset" : 0
+    },
+
+
+
+
+
+
+    {
+        "file" : "Python/traceback.c",
+        "line" : 165,
+        "bug_type" : "NULL_DEREFERENCE",
+        
+        "poniter_name": "_tstate",
+        "strategy" : "skip",
+        "project_name" : "cpython-3.9",
+        "offset" : 0
+    },
+
+
+
+
+
+
+    {
+        "file" : "Modules/faulthandler.c",
+        "line" : 1025,
+        "poniter_name": "x",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+        
+    },
+
+    {
+        "file" : "Modules/_elementtree.c",
+        "line" : 1236,
+        "poniter_name": "st",
+        "offset" : 1,
+        "strategy" : "offset",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Modules/_elementtree.c",
+        "line" : 1280,
+        "poniter_name": "st",
+        "offset" : 2,
+        "strategy" : "offset",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Modules/_elementtree.c",
+        "line" : 1334,
+        "poniter_name": "st",
+        "offset" : 1,
+        "strategy" : "offset",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Modules/_elementtree.c",
+        "line" : 1380,
+        "poniter_name": "st",
+        "offset" : 1,
+        "strategy" : "offset",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Modules/_elementtree.c",
+        "line" : 2542,
+        "poniter_name": "st",
+        "offset" : 1,
+        "strategy" : "offset",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Modules/_testcapimodule.c",
+        "line" : 5065,
+        "poniter_name": "kwnames",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Modules/socketmodule.c",
+        "line" : 6453,
+        "poniter_name": "hobj",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/methodobject.c",
+        "line" : 166,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Python/traceback.c",
+        "line" : 166,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/tupleobject.c",
+        "line" : 272,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/listobject.c",
+        "line" : 335,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/setobject.c",
+        "line" : 490,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/frameobject.c",
+        "line" : 584,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Modules/_elementtree.c",
+        "line" : 669,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Python/hamt.c",
+        "line" : 1159,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/descrobject.c",
+        "line" : 1269,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/odictobject.c",
+        "line" : 1408,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Python/hamt.c",
+        "line" : 1567,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Python/hamt.c",
+        "line" : 1952,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    },
+    {
+        "file" : "Objects/dictobject.c",
+        "line" : 2064,
+        "poniter_name": "_tstate",
+        "offset" : 0,
+        "strategy" : "skip",
+
+        "bug_type" : "NULL_DEREFERENCE",
+        "project_name" : "cpython-3.10"
+    }
+    
+
+    
+]

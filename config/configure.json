@@ -1,0 +1,81 @@
+[
+    {
+      "project_name": "cpython-3.0",
+      "download_url": "https://www.python.org/ftp/python/3.0/Python-3.0.tgz",
+      "md5": "ac1d8aa55bd6d04232cd96abfa445ac4" ,
+      "project_path": "../corpus/cpython-3.0/Python-3.0"
+    },
+
+    {
+      "project_name": "cpython-3.1",
+      "download_url": "https://www.python.org/ftp/python/3.1/Python-3.1.tgz",
+      "md5": "8b7c17af73e5e3dd08f5567904085fa3" ,
+      "project_path": "../corpus/cpython-3.1/Python-3.1"
+    },
+
+    {
+      "project_name": "cpython-3.2",
+      "download_url": "https://www.python.org/ftp/python/3.2/Python-3.2.tgz",
+      "md5": "5efe838a7878b170f6728d7e5d7517af" ,
+      "project_path": "../corpus/cpython-3.2/Python-3.2"
+    },
+
+    {
+      "project_name": "cpython-3.3",
+      "download_url": "https://www.python.org/ftp/python/3.3.0/Python-3.3.0.tgz",
+      "md5": "198a64f7a04d1d5e95ce2782d5fd8254" ,
+      "project_path": "../corpus/cpython-3.3/Python-3.3.0"
+    },
+
+    {
+      "project_name": "cpython-3.4",
+      "download_url": "https://www.python.org/ftp/python/3.4.0/Python-3.4.0.tgz",
+      "md5": "3ca973eb72bb06ed5cadde0e28eaaaca" ,
+      "project_path": "../corpus/cpython-3.4/Python-3.4.0"
+    },
+
+    {
+      "project_name": "cpython-3.5",
+      "download_url": "https://www.python.org/ftp/python/3.5.2/Python-3.5.2.tgz",
+      "md5": "3fe8434643a78630c61c6464fe2e7e72" ,
+      "project_path": "../corpus/cpython-3.5/Python-3.5.2"
+    },
+
+    {
+      "project_name": "cpython-3.6",
+      "download_url": "https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz",
+      "md5": "3f7062ccf8be76491884d0e47ac8b251" ,
+      "project_path": "../corpus/cpython-3.6/Python-3.6.0"
+    },
+
+    {
+      "project_name": "cpython-3.7",
+      "download_url": "https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz",
+      "md5": "41b6595deb4147a1ed517a7d9a580271" ,
+      "project_path": "../corpus/cpython-3.7/Python-3.7.0"
+    },
+
+    {
+      "project_name": "cpython-3.8",
+      "download_url": "https://www.python.org/ftp/python/3.8.0/Python-3.8.0.tgz",
+      "md5": "e18a9d1a0a6d858b9787e03fc6fdaa20" ,
+      "project_path": "../corpus/cpython-3.8/Python-3.8.0"
+    },
+
+    {
+      "project_name": "cpython-3.9",
+      "download_url": "https://www.python.org/ftp/python/3.9.0/Python-3.9.0.tgz",
+      "md5": "e19e75ec81dd04de27797bf3f9d918fd" ,
+      "project_path": "../corpus/cpython-3.9/Python-3.9.0"
+    },
+
+    {
+      "project_name": "cpython-3.10",
+      "download_url": "https://www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz" ,
+      "md5": "729e36388ae9a832b01cf9138921b383",
+      "project_path": "../corpus/cpython-3.10/Python-3.10.0"
+    }
+    
+
+
+]
