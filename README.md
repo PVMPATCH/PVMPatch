@@ -10,8 +10,6 @@ PVMPatch is the first infrastructure to automatically detect and repair Python v
 
 ## Structure
 
-## Structure
-
 - **code**    [README there]() has details for usage.
   - **util**  Components of PVMPATCH, including frontend module, analysis module, automatic rectification module, verification module, etc. 
 - **config**  Configuration file
